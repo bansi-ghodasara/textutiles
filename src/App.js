@@ -67,7 +67,7 @@ function App() {
               <About mode={Mode} />
             </Route>
             <Route exact path="/">
-              <TextForm showAlert={showAlert} heading="Try TextUtils - Word counter,Character counter,
+              <TextForm showAlert={showAlert} heading="Try123 TextUtils - Word counter,Character counter,
                         Remove extra spaces" mode={Mode} /> 
             </Route>
           </Switch>
